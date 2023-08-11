@@ -12,9 +12,16 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v3
-    - name: Fetch latest data
+    - name: Fetch today's announcements
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+      - run: pip install pandas
+      - run: python todayAnns.py
+    - name: Fetch latest company list
       run: |-
-				curl 'https://asx.api.markitdigital.com/asx-research/1.0/companies/directory/file' -o ASX_Listed_Companies.csv
+        curl 'https://asx.api.markitdigital.com/asx-research/1.0/companies/directory/file' -o ASX_Listed_Companies.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
