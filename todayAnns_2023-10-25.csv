@@ -1,4 +1,27 @@
 ASX Code,Date,Price sens.,Headline
+HLA,25/10/2023  3:10 PM,,Change in substantial holding  2  pages  177.2KB
+CC9,25/10/2023  3:03 PM,,PQD Notice of Confirmations  6  pages  500.1KB
+WAT,25/10/2023  3:01 PM,,Chairman's Address to Shareholders  2  pages  1.3MB
+CC9,25/10/2023  3:00 PM,,Distribution Schedule  1  page  60.4KB
+CC9,25/10/2023  3:00 PM,,Top 20 Holders  2  pages  71.6KB
+CC9,25/10/2023  2:59 PM,,Securities Trading Policy  8  pages  194.8KB
+CC9,25/10/2023  2:58 PM,,Employee Incentive Securities Plan  28  pages  519.6KB
+CC9,25/10/2023  2:58 PM,,Rosepoint Annual Report for the year ended 30 June 2023  20  pages  826.0KB
+CC9,25/10/2023  2:57 PM,,Rosepoint Half Year Report for period ended 31 December 2022  19  pages  693.9KB
+CC9,25/10/2023  2:56 PM,,Rosepoint Annual Report from 5 March 2021 to 30 June 2022  20  pages  705.7KB
+FWD,25/10/2023  2:56 PM,,2023 Annual General Meeting Address and Presentation  25  pages  2.1MB
+TNJ,25/10/2023  2:56 PM,,Full Year Statutory Accounts Torrens Series 2015-1 Trust  22  pages  870.7KB
+TOZ,25/10/2023  2:55 PM,,Full Year Statutory Accounts Torrens Series 2014-2 Trust  22  pages  1.1MB
+HYT,25/10/2023  2:54 PM,,Results of Meeting  2  pages  331.0KB
+WTN,25/10/2023  2:53 PM,,Results of Meeting  2  pages  696.1KB
+CC9,25/10/2023  2:52 PM,,FMSL Interim Financial Report Half-Year Ended 30 June 2023  29  pages  934.6KB
+PAR,25/10/2023  2:52 PM,,Notice of Annual General Meeting/Proxy Form  38  pages  507.2KB
+CC9,25/10/2023  2:51 PM,,FMSL Annual Financial Report for Year Ended 31 December 2022  39  pages  1.1MB
+RND,25/10/2023  2:51 PM,,Letter to Shareholders and Notice of AGM & Proxy Form  14  pages  435.7KB
+CC9,25/10/2023  2:50 PM,,FMSL Annual Report from 7 March 2021 to 31 December 2021  29  pages  1.3MB
+CC9,25/10/2023  2:49 PM,,Chariot Interim Financial Report for HY Ended 30 June 2023  35  pages  1.3MB
+GLO,25/10/2023  2:49 PM,,Monthly Investment Update - September 2023  2  pages  127.0KB
+GIV,25/10/2023  2:49 PM,,Monthly Investment Update - September 2023  2  pages  122.5KB
 CC9,25/10/2023  2:47 PM,,Chariot Annual Financial Report Year Ended 31 December 2022  46  pages  1.5MB
 CC9,25/10/2023  2:44 PM,,Chariot Annual Report for the year ended 31 December 2021  40  pages  2.6MB
 IMR,25/10/2023  2:43 PM,,Notification regarding unquoted securities - IMR  5  pages  26.2KB
@@ -180,11 +203,11 @@ WMG,25/10/2023  9:55 AM,,Proposed issue of securities - WMG  5  pages  27.9KB
 WMG,25/10/2023  9:55 AM,,Capital Raise to Advance Mulga Tank Project  3  pages  871.7KB
 DTC,25/10/2023  9:55 AM,,Pause in trading  1  page  118.6KB
 CTW,25/10/2023  9:54 AM,,CitiFirst BOQ SFIs Dividend  1  page  102.2KB
-IHC,25/10/2023  9:54 AM,,Product Disclosure Statement  42  pages  1.4MB
-IHH,25/10/2023  9:54 AM,,Product Disclosure Statement  42  pages  1.4MB
-AES,25/10/2023  9:54 AM,,Product Disclosure Statement  42  pages  1.4MB
 IUS,25/10/2023  9:54 AM,,Product Disclosure Statement  42  pages  1.4MB
+AES,25/10/2023  9:54 AM,,Product Disclosure Statement  42  pages  1.4MB
 IHE,25/10/2023  9:54 AM,,Product Disclosure Statement  42  pages  1.4MB
+IHH,25/10/2023  9:54 AM,,Product Disclosure Statement  42  pages  1.4MB
+IHC,25/10/2023  9:54 AM,,Product Disclosure Statement  42  pages  1.4MB
 NAM,25/10/2023  9:54 AM,,Renewal Debt Facility  1  page  141.8KB
 NAM,25/10/2023  9:54 AM,,Company Secretary Appointment/Resignation  1  page  141.0KB
 CDA,25/10/2023  9:53 AM,,2023 AGM Investor Presentation  14  pages  3.2MB
@@ -220,8 +243,12 @@ CWX,25/10/2023  9:40 AM,,Prospectus  47  pages  857.7KB
 ECT,25/10/2023  9:39 AM,,Notice Under Listing Rule 3.10A  3  pages  272.6KB
 NAM,25/10/2023  9:39 AM,,Dividend/Distribution - NAM  4  pages  24.5KB
 DRA,25/10/2023  9:39 AM,,DRA Announces Changes to its Board of Directors  2  pages  167.4KB
-IBA,25/10/2023  9:39 AM,,Product Disclosure Statement  36  pages  1.3MB
 IGR,25/10/2023  9:39 AM,,Product Disclosure Statement  36  pages  1.3MB
+IBA,25/10/2023  9:39 AM,,Product Disclosure Statement  36  pages  1.3MB
+IJP,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
+GLI,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
+GLP,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
+ITE,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
 WDM,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
 WVO,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
 IWL,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
@@ -234,16 +261,12 @@ IAA,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
 IZZ,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
 IKO,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
 IEM,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
-IJP,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
 IEU,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
 IVE,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
 IJR,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
 IJH,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
 IVV,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
 IOO,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
-ITE,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
-GLP,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
-GLI,25/10/2023  9:37 AM,,Product Disclosure Statement  68  pages  1.4MB
 CWX,25/10/2023  9:37 AM,,Entitlement Offer  4  pages  262.2KB
 RTR,25/10/2023  9:37 AM,,Proposed issue of securities - RTR  7  pages  33.7KB
 E33,25/10/2023  9:36 AM,,Annual General Meeting Webinar  1  page  177.6KB
@@ -256,25 +279,25 @@ QXR,25/10/2023  9:34 AM,,Drilling to commence at Liberty Lithium Brine Project  
 ECT,25/10/2023  9:34 AM,,Annual Report to shareholders  92  pages  5.5MB
 MGR,25/10/2023  9:33 AM,,1Q24 Operational Update  15  pages  5.4MB
 CHM,25/10/2023  9:33 AM,,Entitlement Offer to raise approximately $10 million  4  pages  274.8KB
-IAF,25/10/2023  9:33 AM,,Product Disclosure Statement  45  pages  1.3MB
-ILB,25/10/2023  9:33 AM,,Product Disclosure Statement  45  pages  1.3MB
-ISE,25/10/2023  9:33 AM,,Product Disclosure Statement  45  pages  1.3MB
-BIL,25/10/2023  9:33 AM,,Product Disclosure Statement  45  pages  1.3MB
-IYL,25/10/2023  9:33 AM,,Product Disclosure Statement  45  pages  1.3MB
 ICO,25/10/2023  9:33 AM,,Product Disclosure Statement  45  pages  1.3MB
+IYL,25/10/2023  9:33 AM,,Product Disclosure Statement  45  pages  1.3MB
+BIL,25/10/2023  9:33 AM,,Product Disclosure Statement  45  pages  1.3MB
+ISE,25/10/2023  9:33 AM,,Product Disclosure Statement  45  pages  1.3MB
+ILB,25/10/2023  9:33 AM,,Product Disclosure Statement  45  pages  1.3MB
 IGB,25/10/2023  9:33 AM,,Product Disclosure Statement  45  pages  1.3MB
+IAF,25/10/2023  9:33 AM,,Product Disclosure Statement  45  pages  1.3MB
 LTR,25/10/2023  9:32 AM,,Section 708A Notice  1  page  240.1KB
 MRL,25/10/2023  9:32 AM,,CLP Operational and Financing Update  7  pages  1.7MB
 GL1,25/10/2023  9:31 AM,,Quarterly Activities/Appendix 5B Cash Flow Report  29  pages  7.3MB
 NSR,25/10/2023  9:31 AM,,NSR 2023 AGM Addresses  19  pages  3.4MB
 EVS,25/10/2023  9:30 AM,,Q1 Sales Update - ARR above $60m  7  pages  194.3KB
 LMG,25/10/2023  9:29 AM,,Appendix 2A  20  pages  367.4KB
-MVO,25/10/2023  9:29 AM,,Product Disclosure Statement  42  pages  1.4MB
-AUM,25/10/2023  9:29 AM,,Product Disclosure Statement  42  pages  1.4MB
-IHD,25/10/2023  9:29 AM,,Product Disclosure Statement  42  pages  1.4MB
-ISO,25/10/2023  9:29 AM,,Product Disclosure Statement  42  pages  1.4MB
-IOZ,25/10/2023  9:29 AM,,Product Disclosure Statement  42  pages  1.4MB
 ILC,25/10/2023  9:29 AM,,Product Disclosure Statement  42  pages  1.4MB
+IOZ,25/10/2023  9:29 AM,,Product Disclosure Statement  42  pages  1.4MB
+ISO,25/10/2023  9:29 AM,,Product Disclosure Statement  42  pages  1.4MB
+IHD,25/10/2023  9:29 AM,,Product Disclosure Statement  42  pages  1.4MB
+AUM,25/10/2023  9:29 AM,,Product Disclosure Statement  42  pages  1.4MB
+MVO,25/10/2023  9:29 AM,,Product Disclosure Statement  42  pages  1.4MB
 IES,25/10/2023  9:29 AM,,Product Disclosure Statement  42  pages  1.4MB
 YTM,25/10/2023  9:28 AM,,Update - Proposed Revocation of Trading Status  7  pages  981.7KB
 ODE,25/10/2023  9:28 AM,,Investor Presentation - 2023 Spotlight Conference  16  pages  2.8MB
