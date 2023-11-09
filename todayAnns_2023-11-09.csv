@@ -1,4 +1,9 @@
 ASX Code,Date,Price sens.,Headline
+REM,09/11/2023  6:45 PM,,Application for quotation of securities - REM  6  pages  27.8KB
+GRE,09/11/2023  6:38 PM,,Cleansing Notice  1  page  80.3KB
+FGL,09/11/2023  6:32 PM,,Application for quotation of securities - FGL  6  pages  27.7KB
+CY5,09/11/2023  6:32 PM,,Notification of release of securities from escrow  1  page  125.8KB
+CY5,09/11/2023  6:29 PM,,Cancel - Proposed issue of securities - CY5  7  pages  31.6KB
 WAF,09/11/2023  6:24 PM,,Becoming a substantial holder  5  pages  319.9KB
 GRE,09/11/2023  6:23 PM,,Application for quotation of securities - GRE  6  pages  27.7KB
 GRE,09/11/2023  6:23 PM,,Application for quotation of securities - GRE  6  pages  28.1KB
@@ -15,8 +20,8 @@ ENR,09/11/2023  6:09 PM,,Notification of cessation of securities - ENR  5  pages
 MCT,09/11/2023  6:09 PM,,Change of Registered Office and Principal Place of Business  1  page  98.9KB
 ORG,09/11/2023  6:09 PM,,Ceasing to be a substantial holder  4  pages  282.8KB
 TOE,09/11/2023  6:07 PM,,Change in substantial holding  4  pages  439.9KB
-MQG,09/11/2023  6:06 PM,,Change in substantial holding for LOT  44  pages  262.2KB
 LOT,09/11/2023  6:06 PM,,Change in substantial holding from MQG  44  pages  262.2KB
+MQG,09/11/2023  6:06 PM,,Change in substantial holding for LOT  44  pages  262.2KB
 VUK,09/11/2023  6:05 PM,,Transaction in Own Shares and CDIs  12  pages  1.5MB
 BHD,09/11/2023  6:04 PM,,Net Tangible Asset Backing  3  pages  235.4KB
 INA,09/11/2023  6:03 PM,,Ceasing to be a substantial holder  4  pages  288.9KB
@@ -228,15 +233,15 @@ GML,09/11/2023  12:27 PM,,Investor Presentation  20  pages  3.1MB
 NST,09/11/2023  12:27 PM,,Change of Director's Interest Notice  2  pages  157.3KB
 MPI,09/11/2023  12:27 PM,,mFund - Additional Information Booklet - MPI01  28  pages  1.1MB
 TOK,09/11/2023  12:26 PM,,ASX Notice - Admission and Quotation  2  pages  475.4KB
-SXE,09/11/2023  12:25 PM,,Change in substantial holding from CBA  10  pages  205.2KB
 CBA,09/11/2023  12:25 PM,,Change in substantial holding for SXE  10  pages  205.2KB
+SXE,09/11/2023  12:25 PM,,Change in substantial holding from CBA  10  pages  205.2KB
 CGF,09/11/2023  12:25 PM,,Initial Director's Interest Notice  2  pages  173.9KB
 M2R,09/11/2023  12:25 PM,,AGM Presentation  24  pages  13.7MB
 ARE,09/11/2023  12:25 PM,,Change of Director's Interest Notice - Billing  2  pages  231.0KB
 NAB,09/11/2023  12:25 PM,,NAB 2023 Full Year Results email to shareholders  2  pages  1.6MB
 ARE,09/11/2023  12:24 PM,,Appendix 3Y - Late Lodgement Notice  1  page  104.0KB
-CBA,09/11/2023  12:23 PM,,Ceasing to be a substantial holder for CCP  10  pages  287.1KB
 CCP,09/11/2023  12:23 PM,,Ceasing to be a substantial holder from CBA  10  pages  287.1KB
+CBA,09/11/2023  12:23 PM,,Ceasing to be a substantial holder for CCP  10  pages  287.1KB
 CGF,09/11/2023  12:23 PM,,Initial Director's Interest Notice  2  pages  173.8KB
 GRL,09/11/2023  12:21 PM,,Investor Webinar ShareCafe Hidden Gems  1  page  192.3KB
 PCI,09/11/2023  12:19 PM,,Daily Net Tangible Asset Statement  1  page  225.0KB
@@ -424,19 +429,19 @@ RF1,09/11/2023  9:23 AM,,Update - Notification of buy-back - RF1  6  pages  27.8
 ALG,09/11/2023  9:23 AM,,Update - Notification of buy-back - ALG  6  pages  27.8KB
 RDN,09/11/2023  9:21 AM,,Exceptional lithium results & additional spodumene XRD  21  pages  2.6MB
 CRD,09/11/2023  9:20 AM,,Change in substantial holding  6  pages  667.6KB
-DVR,09/11/2023  9:20 AM,,Change in substantial holding from HUB  5  pages  465.5KB
 HUB,09/11/2023  9:20 AM,,Change in substantial holding for DVR  5  pages  465.5KB
+DVR,09/11/2023  9:20 AM,,Change in substantial holding from HUB  5  pages  465.5KB
 CXX,09/11/2023  9:20 AM,,Prospectus  281  pages  6.6MB
 PIQ,09/11/2023  9:19 AM,,Proteomics receives $1.85 million in R&D tax incentive  1  page  129.2KB
 VMM,09/11/2023  9:19 AM,,Trading Halt  2  pages  597.8KB
 BCA,09/11/2023  9:18 AM,,BCA Corporate Presentation  25  pages  5.4MB
 PHO,09/11/2023  9:18 AM,,Prospective Simitu Copper-Gold Permit Granted  9  pages  2.2MB
 A3D,09/11/2023  9:17 AM,,Corporate Presentation Indo Pacific Maritime Conference  15  pages  1.4MB
-IVR,09/11/2023  9:15 AM,,THR: Drilling starts at Molyhil Tungsten Project  2  pages  460.2KB
 THR,09/11/2023  9:15 AM,,Drilling starts at Molyhil Tungsten Project  2  pages  460.2KB
+IVR,09/11/2023  9:15 AM,,THR: Drilling starts at Molyhil Tungsten Project  2  pages  460.2KB
 PNX,09/11/2023  9:15 AM,,Pine Creek Uranium Rights Returned to PNX  8  pages  1.0MB
-SCA,09/11/2023  9:15 AM,,3rd Quarter Operational Update  11  pages  2.2MB
 SCW,09/11/2023  9:15 AM,,3rd Quarter Operational Update  11  pages  2.2MB
+SCA,09/11/2023  9:15 AM,,3rd Quarter Operational Update  11  pages  2.2MB
 PGM,09/11/2023  9:14 AM,,Garibaldi mineralisation extended and new targets defined  27  pages  1.9MB
 REP,09/11/2023  9:12 AM,,REP three asset sales and new senior appointments  3  pages  171.3KB
 PCG,09/11/2023  9:11 AM,,AGM Chairman's and CEO's Address to Shareholders  20  pages  1.1MB
