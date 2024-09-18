@@ -28,14 +28,14 @@ POS,18/09/2024  6:27 PM,,Notification regarding unquoted securities - POS  5  pa
 AVM,18/09/2024  6:27 PM,,Becoming a substantial holder  2  pages  493.2KB
 TGM,18/09/2024  6:26 PM,,Notification of cessation of securities - TGM  5  pages  16.4KB
 WMI,18/09/2024  6:26 PM,,Change in substantial holding for SGF  10  pages  893.6KB
-WAX,18/09/2024  6:26 PM,,Change in substantial holding for SGF  10  pages  893.6KB
 SGF,18/09/2024  6:26 PM,,Change in substantial holding from WMI/WAM/WAX  10  pages  893.6KB
+WAX,18/09/2024  6:26 PM,,Change in substantial holding for SGF  10  pages  893.6KB
 WAM,18/09/2024  6:26 PM,,Change in substantial holding for SGF  10  pages  893.6KB
 DYM,18/09/2024  6:26 PM,,Appendix 4G  14  pages  407.0KB
 WMI,18/09/2024  6:25 PM,,Becoming a substantial holder for LGI  6  pages  476.6KB
 WAX,18/09/2024  6:25 PM,,Becoming a substantial holder for LGI  6  pages  476.6KB
-LGI,18/09/2024  6:25 PM,,Becoming a substantial holder from WAM/WMI/WAX  6  pages  476.6KB
 WAM,18/09/2024  6:25 PM,,Becoming a substantial holder for LGI  6  pages  476.6KB
+LGI,18/09/2024  6:25 PM,,Becoming a substantial holder from WAM/WMI/WAX  6  pages  476.6KB
 NGY,18/09/2024  6:25 PM,,Change of Director's Interest Notice  3  pages  239.2KB
 DYM,18/09/2024  6:25 PM,,Corporate Governance Statement  20  pages  301.2KB
 NGY,18/09/2024  6:24 PM,,FY24 Corporate Governance Statement and Appendix 4G  33  pages  739.8KB
@@ -61,12 +61,12 @@ NVX,18/09/2024  5:40 PM,,Change of Director's Interest Notice  3  pages  151.9KB
 FBR,18/09/2024  5:35 PM,,2024 AGM Notification of Dates  1  page  118.5KB
 OSL,18/09/2024  5:31 PM,,Application for quotation of securities - OSL  6  pages  18.3KB
 ADT,18/09/2024  5:31 PM,,Notice of Operations Update Presentation Date Correction  2  pages  230.4KB
-TOT,18/09/2024  5:30 PM,,Change in substantial holding from TGP  3  pages  218.2KB
 TGP,18/09/2024  5:30 PM,,Change in substantial holding for TOT  3  pages  218.2KB
+TOT,18/09/2024  5:30 PM,,Change in substantial holding from TGP  3  pages  218.2KB
 CND,18/09/2024  5:20 PM,,Securities Trading Policy  6  pages  118.8KB
-ZSP,18/09/2024  5:13 PM,,Virgin Money UK PLC to be removed from the S&P/ASX 200 Index  2  pages  70.0KB
-CDA,18/09/2024  5:13 PM,,Virgin Money UK PLC to be removed from the S&P/ASX 200 Index  2  pages  70.0KB
 VUK,18/09/2024  5:13 PM,,Virgin Money UK PLC to be removed from the S&P/ASX 200 Index  2  pages  70.0KB
+CDA,18/09/2024  5:13 PM,,Virgin Money UK PLC to be removed from the S&P/ASX 200 Index  2  pages  70.0KB
+ZSP,18/09/2024  5:13 PM,,Virgin Money UK PLC to be removed from the S&P/ASX 200 Index  2  pages  70.0KB
 ACL,18/09/2024  5:10 PM,,Change in substantial holding  6  pages  690.9KB
 BSE,18/09/2024  5:09 PM,,Update - Dividend/Distribution - BSE  5  pages  21.5KB
 TGM,18/09/2024  5:07 PM,,Notification regarding unquoted securities - TGM  8  pages  23.3KB
@@ -235,8 +235,8 @@ PRU,18/09/2024  11:26 AM,,Update - Notification of buy-back - PRU  5  pages  15.
 LRV,18/09/2024  11:25 AM,,Ceasing to be a substantial holder  3  pages  123.3KB
 PMT,18/09/2024  11:25 AM,,Results of Annual General Meeting of Shareholders  4  pages  246.0KB
 MAT,18/09/2024  11:21 AM,,Application for quotation of securities - MAT  6  pages  18.2KB
-LIT,18/09/2024  11:19 AM,,Ceasing to be a substantial holder for CHR  28  pages  583.0KB
 CHR,18/09/2024  11:19 AM,,Ceasing to be a substantial holder from LIT  28  pages  583.0KB
+LIT,18/09/2024  11:19 AM,,Ceasing to be a substantial holder for CHR  28  pages  583.0KB
 SKY,18/09/2024  11:14 AM,,Investor Webinar Details  1  page  402.6KB
 PU2,18/09/2024  11:13 AM,,Notification of cessation of securities - PU2  4  pages  14.5KB
 NTL,18/09/2024  11:08 AM,,Application for quotation of securities - NTL  6  pages  18.2KB
@@ -282,8 +282,8 @@ ARF,18/09/2024  10:02 AM,,Notification of Annual General Meeting  1  page  93.0K
 CTW,18/09/2024  10:01 AM,,CitiFirst S32 Instalment MINIs Dividend Estimated Amount  1  page  101.2KB
 GFL,18/09/2024  10:01 AM,,GFL Corporate Governance Statement 2024  6  pages  1.4MB
 DRX,18/09/2024  10:00 AM,,Application for quotation of securities - DRX  6  pages  18.6KB
-AON,18/09/2024  10:00 AM,,Sale of Assets  4  pages  406.4KB
 BIM,18/09/2024  10:00 AM,,AON: Sale of Assets  4  pages  406.4KB
+AON,18/09/2024  10:00 AM,,Sale of Assets  4  pages  406.4KB
 BEO,18/09/2024  9:59 AM,,Application for quotation of securities - BEO  6  pages  18.3KB
 GFL,18/09/2024  9:59 AM,,Annual Report to Shareholders - June 2024  40  pages  6.6MB
 MMI,18/09/2024  9:59 AM,,Response to ASX Appendix 3Y Query  4  pages  816.5KB
@@ -340,8 +340,8 @@ EBR,18/09/2024  9:35 AM,,Capital Raising Investor Presentation  50  pages  1.9MB
 BXN,18/09/2024  9:35 AM,,Reinstatement to Quotation  1  page  92.0KB
 BXN,18/09/2024  9:35 AM,,Reinstatement to Quotation  1  page  92.0KB
 BXN,18/09/2024  9:34 AM,,Announcement 21.8.2024 Clarifying Statement  3  pages  227.4KB
-MCT,18/09/2024  9:34 AM,,Potential Large Scale Gold Footprint Building at Yundamindra  7  pages  1.5MB
 NME,18/09/2024  9:34 AM,,MCT: Potential Large Scale Gold Footprint at Yundamindra  7  pages  1.5MB
+MCT,18/09/2024  9:34 AM,,Potential Large Scale Gold Footprint Building at Yundamindra  7  pages  1.5MB
 INF,18/09/2024  9:34 AM,,Company Update including Executive Changes  2  pages  202.0KB
 SS1,18/09/2024  9:34 AM,,Proposed issue of securities - SS1  5  pages  19.4KB
 SS1,18/09/2024  9:34 AM,,$13M raised including $5M Strategic Investment at A$0.80  4  pages  385.3KB
