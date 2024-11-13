@@ -1,4 +1,36 @@
 ASX Code,Date,Price sens.,Headline
+BNZ,14/11/2024  10:12 am,Â,Cleansing Notice  1  page  123.3KB
+RIL,14/11/2024  10:11 am,,Pause in Trading  1  page  116.3KB
+WBT,14/11/2024  10:10 am,Â,Proposed issue of securities - WBT  5  pages  18.6KB
+SKT,14/11/2024  10:10 am,Â,Results of Sky's 2024 Annual Shareholders Meeting  1  page  206.5KB
+SCP,14/11/2024  10:09 am,Â,Scalare Partners Commences Trading on the ASX  3  pages  260.7KB
+BNZ,14/11/2024  10:08 am,Â,Application for quotation of securities - BNZ  6  pages  18.5KB
+PER,14/11/2024  10:08 am,Â,Change of Director's Interest Notice - Dr James Garner  2  pages  212.0KB
+KKC,14/11/2024  10:07 am,Â,Net Tangible Asset Backing  2  pages  185.7KB
+WBT,14/11/2024  10:05 am,,Investor Presentation  49  pages  3.8MB
+IPH,14/11/2024  10:03 am,Â,2024 AGM - Chairman and Managing Director Addresses  11  pages  556.5KB
+GMG,14/11/2024  10:01 am,Â,AGM Chairman's and CEO's Presentation  34  pages  4.9MB
+ACQ,14/11/2024  10:01 am,,Annual General Meeting Presentation  27  pages  1.9MB
+PER,14/11/2024  10:00 am,Â,Application for quotation of securities - PER  6  pages  18.2KB
+AMT,14/11/2024  10:00 am,Â,Removal from Official List  1  page  91.4KB
+CTW,14/11/2024  9:59 am,Â,CitiFirst ALL Instalment MINIs Dividend  1  page  103.7KB
+CTW,14/11/2024  9:59 am,Â,CitiFirst ALL Instalments Dividend  1  page  100.4KB
+WWG,14/11/2024  9:58 am,,Facility Increase and Extension  2  pages  112.3KB
+SWF,14/11/2024  9:58 am,Â,2024 AGM Chair and CEO addresses  19  pages  887.1KB
+AER,14/11/2024  9:57 am,,Receipt of Research & Development Tax Incentive  2  pages  204.1KB
+ACL,14/11/2024  9:56 am,Â,Update - Notification of buy-back - ACL  6  pages  18.5KB
+DTM,14/11/2024  9:56 am,Â,Cleansing Notice  1  page  314.0KB
+FCG,14/11/2024  9:55 am,,Suspension from Quotation  2  pages  256.3KB
+TNY,14/11/2024  9:55 am,Â,2024 AGM - Chair Address & Investor Presentation  24  pages  1.4MB
+BAO,14/11/2024  9:54 am,Â,Portfolio Holdings Disclosure  1  page  885.1KB
+DAO,14/11/2024  9:54 am,Â,Portfolio Holdings Disclosure  1  page  885.1KB
+DTM,14/11/2024  9:54 am,Â,Notification regarding unquoted securities - DTM  8  pages  25.7KB
+DTM,14/11/2024  9:54 am,Â,Application for quotation of securities - DTM  6  pages  18.5KB
+ATA,14/11/2024  9:53 am,Â,Update - Proposed issue of securities - ATA  5  pages  18.6KB
+ATA,14/11/2024  9:53 am,,Successful completion of upsized Tranche 1 Placement  4  pages  293.6KB
+WBT,14/11/2024  9:52 am,,Weebit Nano completes A$50 million underwritten Placement  4  pages  243.8KB
+CHR,14/11/2024  9:49 am,Â,Completion of Fully Underwritten Entitlement Offer  1  page  100.0KB
+WJL,14/11/2024  9:49 am,Â,1H25 Results Briefing Details  1  page  90.2KB
 PGO,14/11/2024  9:48 am,Â,Highly experienced mining executive appointed as new Chair  3  pages  311.4KB
 CWY,14/11/2024  9:47 am,,AXX:Cleanaway's acquisition of Citywide Waste raise concerns  2  pages  129.5KB
 AXX,14/11/2024  9:47 am,Â,Cleanaway's acquisition of Citywide Waste raises concerns  2  pages  129.5KB
@@ -8,8 +40,8 @@ SWF,14/11/2024  9:45 am,,Non-binding indicative proposal from Axi at $0.23 per s
 HAS,14/11/2024  9:45 am,,Funding and Development Update  5  pages  691.8KB
 SUV,14/11/2024  9:45 am,Â,Suvo Receives R&D Incentive Payment  3  pages  788.9KB
 VMM,14/11/2024  9:44 am,,Southern Complex Achieves Highest Ever Ionic Recoveries  18  pages  1.7MB
-AEF,14/11/2024  9:44 am,Â,Change in substantial shareholding for SHM  4  pages  187.6KB
 SHM,14/11/2024  9:44 am,Â,Change in substantial shareholding from AEF  4  pages  187.6KB
+AEF,14/11/2024  9:44 am,Â,Change in substantial shareholding for SHM  4  pages  187.6KB
 BOT,14/11/2024  9:41 am,Â,Botanix Adds to Payer Coverage  3  pages  205.2KB
 LU7,14/11/2024  9:41 am,Â,Application for quotation of securities - LU7  6  pages  18.7KB
 NWS,14/11/2024  9:40 am,Â,Appendix 3C  4  pages  75.6KB
@@ -38,8 +70,8 @@ BRK,14/11/2024  9:32 am,Â,Brookside - Noosa Mining Conference November 2024  18
 RIM,14/11/2024  9:31 am,Â,Scandium Exploration Update - amended  7  pages  1.1MB
 PRX,14/11/2024  9:31 am,,Exploration Update - Tanami North Project  9  pages  1.5MB
 QRI,14/11/2024  9:31 am,Â,Update - Dividend/Distribution - QRI  5  pages  18.4KB
-ARI,14/11/2024  9:31 am,,Significant Strike and Depth Potential at Yundamindra Gold  8  pages  4.9MB
 NME,14/11/2024  9:31 am,,ARI: Significant Strike and Depth Potential at Yundamindra  8  pages  4.9MB
+ARI,14/11/2024  9:31 am,,Significant Strike and Depth Potential at Yundamindra Gold  8  pages  4.9MB
 FPC,14/11/2024  9:31 am,Â,Net Tangible Asset Backing  6  pages  393.9KB
 WQG,14/11/2024  9:30 am,,Q1 FY25 Quarterly Dividend Announcement  4  pages  721.3KB
 HTG,14/11/2024  9:29 am,Â,HTG Partners with Pulsar International for Global Customers  3  pages  185.0KB
@@ -49,8 +81,8 @@ RON,14/11/2024  9:26 am,,Trading Halt  2  pages  239.3KB
 GHY,14/11/2024  9:25 am,Â,Noosa Mining Conference Presentation  26  pages  5.3MB
 SQ2,14/11/2024  9:25 am,Â,Statement of Changes in Beneficial Ownership  1  page  302.3KB
 WC8,14/11/2024  9:24 am,Â,Response to Media Speculation  1  page  254.8KB
-PTN,14/11/2024  9:24 am,,Patronus purchases substantial stake in Alto Metals Limited  5  pages  577.5KB
 AME,14/11/2024  9:24 am,Â,PTN: Patronus purc. substantial stake in Alto Metals Limited  5  pages  577.5KB
+PTN,14/11/2024  9:24 am,,Patronus purchases substantial stake in Alto Metals Limited  5  pages  577.5KB
 DGH,14/11/2024  9:24 am,,Desane 2024 AGM Presentation  16  pages  4.3MB
 PTN,14/11/2024  9:24 am,Â,Becoming a substantial holder for AME  3  pages  163.3KB
 AME,14/11/2024  9:24 am,Â,Becoming a substantial holder from PTN  3  pages  163.3KB
@@ -67,8 +99,8 @@ IMC,14/11/2024  9:20 am,Â,Notification of cessation of securities - IMC  4  pag
 360,14/11/2024  9:19 am,Â,SEC Schedule 13G  5  pages  89.7KB
 PIA,14/11/2024  9:19 am,Â,Monthly Performance Report - 31 October 2024  4  pages  1.4MB
 MMA,14/11/2024  9:19 am,Â,Noosa Mining Conference Presentation  25  pages  6.4MB
-XF1,14/11/2024  9:18 am,Â,SEK: SEEK and Xref enter into Scheme Implementation Deed  3  pages  285.3KB
 SEK,14/11/2024  9:18 am,Â,SEEK and Xref enter into Scheme Implementation Deed  3  pages  285.3KB
+XF1,14/11/2024  9:18 am,Â,SEK: SEEK and Xref enter into Scheme Implementation Deed  3  pages  285.3KB
 WNR,14/11/2024  9:18 am,,Business update  2  pages  102.2KB
 PGH,14/11/2024  9:18 am,Â,2024 Annual General Meeting Speeches  4  pages  221.7KB
 NEU,14/11/2024  9:17 am,Â,Notification of buy-back - NEU  5  pages  15.1KB
@@ -85,8 +117,8 @@ NEU,14/11/2024  9:14 am,,Neuren announces A$50m on-market share buy-back program
 29M,14/11/2024  9:13 am,Â,Capricorn Copper Insurance Claim Update  1  page  185.3KB
 PPM,14/11/2024  9:13 am,Â,Notification of cessation of securities - PPM  4  pages  14.7KB
 NYR,14/11/2024  9:13 am,Â,Change of Director's Interest Notice - GM  2  pages  6.0KB
-VVL,14/11/2024  9:13 am,Â,ETF name changes and Product Disclosure Statement update  28  pages  431.2KB
 VMI,14/11/2024  9:13 am,Â,ETF name changes and Product Disclosure Statement update  28  pages  431.2KB
+VVL,14/11/2024  9:13 am,Â,ETF name changes and Product Disclosure Statement update  28  pages  431.2KB
 AVH,14/11/2024  9:12 am,Â,Notification regarding unquoted securities - AVH  12  pages  32.2KB
 HCT,14/11/2024  9:12 am,Â,Holista Completes First Court-Ordered Payment  1  page  143.8KB
 DTM,14/11/2024  9:11 am,Â,Notification regarding unquoted securities - DTM  6  pages  20.3KB
@@ -97,8 +129,8 @@ MBK,14/11/2024  9:08 am,Â,Investor Webinar Presentation  17  pages  4.6MB
 EVO,14/11/2024  9:07 am,Â,Dividend/Distribution - EVO  4  pages  15.5KB
 BRU,14/11/2024  9:07 am,Â,Noosa Mining Conference Presentation  13  pages  2.0MB
 FND,14/11/2024  9:07 am,,Trading halt  2  pages  571.4KB
-XF1,14/11/2024  9:06 am,,XREF AND SEEK SIGN BINDING SCHEME IMPLEMENTATION DEED  102  pages  11.1MB
 SEK,14/11/2024  9:06 am,,XF1: XREF AND SEEK SIGN BINDING SCHEME IMPLEMENTATION DEED  102  pages  11.1MB
+XF1,14/11/2024  9:06 am,,XREF AND SEEK SIGN BINDING SCHEME IMPLEMENTATION DEED  102  pages  11.1MB
 DGH,14/11/2024  9:06 am,,2024 Annual General Meeting - Chairman's Address  3  pages  188.3KB
 IMM,14/11/2024  9:06 am,,Excellent Survival Data from INSIGHT-003 Trial in NSCLC  3  pages  316.5KB
 ERM,14/11/2024  9:05 am,,Market Update on Takeover of Tennant Creek JV Partner  1  page  197.0KB
