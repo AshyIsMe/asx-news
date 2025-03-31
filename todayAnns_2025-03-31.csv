@@ -1,4 +1,21 @@
 ASX Code,Date,Price sens.,Headline
+DGL,31/03/2025  1:02 pm,Â,Change of Director's Interest Notice- Simon Henry  2  pages  253.4KB
+DEV,31/03/2025  12:58 pm,Â,Notification of cessation of securities - DEV  4  pages  14.8KB
+WC1,31/03/2025  12:55 pm,Â,Notification of cessation of securities - WC1  5  pages  16.1KB
+FAU,31/03/2025  12:55 pm,Â,Annual Report to Shareholders  39  pages  1.6MB
+EMP,31/03/2025  12:50 pm,Â,Results of Meeting  2  pages  346.8KB
+ASQ,31/03/2025  12:48 pm,,Exploration Update - Koolyanobbing Gold Project  20  pages  4.2MB
+GCI,31/03/2025  12:44 pm,Â,Net Tangible Asset Backing  1  page  258.0KB
+OPT,31/03/2025  12:44 pm,,Continuation of Suspension from Quotation  1  page  114.7KB
+PCI,31/03/2025  12:41 pm,Â,Daily Net Tangible Asset Statement  1  page  453.9KB
+OPT,31/03/2025  12:41 pm,,Opthea Announces Decision to Discontinue Wet AMD Trials  3  pages  504.4KB
+IPL,31/03/2025  12:41 pm,Â,Change of Company Name and ASX Ticker & Constitution  56  pages  1.0MB
+ZLD,31/03/2025  12:33 pm,Â,Proposed issue of securities - ZLD  5  pages  17.7KB
+AGX,31/03/2025  12:30 pm,Â,Product Disclosure Statement  32  pages  691.7KB
+M2R,31/03/2025  12:21 pm,Â,General Meeting Presentation  28  pages  5.7MB
+BLX,31/03/2025  12:16 pm,Â,BLX - Appendix 3Y Director Interests  6  pages  369.3KB
+RHY,31/03/2025  12:15 pm,Â,RHY - Results of Meeting  2  pages  263.4KB
+ATH,31/03/2025  12:13 pm,Â,Results of Meeting  2  pages  27.3KB
 AAU,31/03/2025  12:08 pm,Â,Corporate Governance Statement and Appendix 4G  28  pages  581.3KB
 AAU,31/03/2025  12:04 pm,Â,Annual Report and Full Year Statutory Accounts  72  pages  2.6MB
 SHJ,31/03/2025  12:03 pm,Â,Notification of cessation of securities - SHJ  4  pages  14.8KB
@@ -101,8 +118,8 @@ KEY,31/03/2025  9:57 am,Â,Entitlement Offer Cleansing Notice  2  pages  231.0KB
 NTU,31/03/2025  9:56 am,Â,Completion of Government share divestment order  2  pages  140.5KB
 ASX,31/03/2025  9:55 am,Â,ASX Responds to Actions from RBA and ASIC  2  pages  151.5KB
 AKN,31/03/2025  9:54 am,,Cloncurry Project Update Tick Hill Gold Joint Venture  6  pages  694.5KB
-MXR,31/03/2025  9:54 am,,Astral Issues Compulsory Acquisition Notice  1  page  77.8KB
 AAR,31/03/2025  9:54 am,,MXR: Astral Issues Compulsory Acquisition Notice  1  page  77.8KB
+MXR,31/03/2025  9:54 am,,Astral Issues Compulsory Acquisition Notice  1  page  77.8KB
 A1G,31/03/2025  9:54 am,,Impressive Drilling Results Continue to Deliver at Didievi  30  pages  1.1MB
 JPH,31/03/2025  9:53 am,Â,Product Disclosure Statement  33  pages  11.5MB
 R3A,31/03/2025  9:53 am,Â,Quarterly Portfolio Holdings as at 31 January 2025  2  pages  245.4KB
@@ -249,11 +266,6 @@ TEG,31/03/2025  9:03 am,,Becos well spud date  3  pages  560.7KB
 ECH,31/03/2025  9:03 am,,TEG: Becos well spud date  3  pages  560.7KB
 EIQ,31/03/2025  9:02 am,,Expansion Across 36 US Hospitals and Cardiology Practices  2  pages  155.6KB
 VMC,31/03/2025  9:02 am,,RC and Diamond Drilling Campaigns Topdrill Pty Ltd Engaged  2  pages  1.0MB
-VDH,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
-VDG,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
-VBN,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
-VEQ,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
-VAE,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
 VIF,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
 VCF,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
 VGS,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
@@ -264,9 +276,14 @@ VLC,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  
 VHY,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
 VAP,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
 VAS,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
+VAE,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
+VBN,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
+VDG,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
+VDH,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
 VES,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
 VIS,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
 VDA,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
+VEQ,31/03/2025  9:00 am,,Updated Estimated Distribution Announcement  3  pages  130.2KB
 GML,31/03/2025  9:00 am,,Foundational Exploration Completed at Barrelmaker Project  11  pages  539.9KB
 HYG,31/03/2025  8:59 am,Â,Product Disclosure Statement  48  pages  797.6KB
 AX1,31/03/2025  8:58 am,Â,Response to Media Article  1  page  180.0KB
