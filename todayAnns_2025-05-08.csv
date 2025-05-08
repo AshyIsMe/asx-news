@@ -1,17 +1,21 @@
 ASX Code,Date,Price sens.,Headline
+ABE,08/05/2025  3:27 pm,,Director Appointment/Resignation  2  pages  122.8KB
+CTN,08/05/2025  3:24 pm,Â,Change in substantial holding  2  pages  208.6KB
+DXB,08/05/2025  3:19 pm,Â,Application for quotation of securities - DXB  6  pages  18.3KB
+APZ,08/05/2025  3:13 pm,Â,Settlement of Australind Grove Acquisition  2  pages  418.0KB
 CR9,08/05/2025  3:08 pm,Â,Change of Director's Interest Notice  4  pages  345.1KB
 CYG,08/05/2025  3:08 pm,Â,Change of Director's Interest Notice - A White  2  pages  770.0KB
 ADG,08/05/2025  3:08 pm,Â,Investor Webinar - Lauriston Gold Project Acquisition  2  pages  192.8KB
 CR9,08/05/2025  3:08 pm,Â,Application for quotation of securities - CR9  6  pages  18.1KB
-EBN,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
-SUB,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
-FLO,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
-PLU,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
-GCA,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
 XGO,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
 5GO,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
 1GO,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
 LEN,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
+GCA,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
+EBN,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
+SUB,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
+FLO,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
+PLU,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
 TBI,08/05/2025  3:07 pm,Â,Dividend component details  3  pages  291.0KB
 LPG,08/05/2025  3:05 pm,Â,Unitholder Monthly Report for April 2025  3  pages  418.9KB
 GCI,08/05/2025  3:04 pm,Â,Net Tangible Asset Backing  1  page  309.4KB
@@ -150,10 +154,6 @@ PEC,08/05/2025  9:41 am,Â,RIU Sydney Conference Presentation  46  pages  13.2MB
 VRC,08/05/2025  9:41 am,Â,Gold Exploration Drilling Programme to Commence at Kouroussa  5  pages  1.2MB
 FDR,08/05/2025  9:40 am,Â,Change of Director's Interest Notice - Shane Westlake  3  pages  284.8KB
 ILT,08/05/2025  9:40 am,Â,ILT RIU Sydney Resources Round-Up May 2025 Presentation  26  pages  5.7MB
-IFR,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
-PLU,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
-FLO,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
-ESG,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 EMK,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 CNE,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 REI,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
@@ -163,10 +163,10 @@ SUB,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correc
 EBN,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 GOA,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 GCA,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
+HLT,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 DVD,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 ESP,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 VLU,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
-CLN,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 QSM,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 GPE,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 NUG,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
@@ -184,6 +184,10 @@ VBT,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correc
 ALF,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 DFN,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 GRI,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
+ESG,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
+FLO,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
+PLU,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
+IFR,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 MVS,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 CET,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 QUA,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
@@ -194,7 +198,7 @@ MVE,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correc
 MVR,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 MVA,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 MVB,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
-HLT,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
+CLN,08/05/2025  9:40 am,Â,Issued Units Outstanding as at 30 April 2025 - correction  4  pages  314.3KB
 FDR,08/05/2025  9:38 am,Â,Change of Director's Interest Notice - Damon Neaves  4  pages  287.6KB
 GDG,08/05/2025  9:37 am,,BlackRock and Generation Life form strategic alliance  1  page  146.2KB
 HTM,08/05/2025  9:36 am,,Rights Issue Prospectus  37  pages  593.2KB
@@ -228,8 +232,8 @@ NTD,08/05/2025  9:12 am,,Dunlop Distribution Update  3  pages  240.9KB
 RF1,08/05/2025  9:11 am,Â,Update - Notification of buy-back - RF1  6  pages  18.3KB
 IPH,08/05/2025  9:11 am,Â,Update - Notification of buy-back - IPH  6  pages  18.4KB
 BAP,08/05/2025  9:11 am,Â,Macquarie Australia Conference Presentation  24  pages  2.0MB
-BRX,08/05/2025  9:10 am,,Bullabulling Option Agreement Executed With Minerals 260  4  pages  970.7KB
 MI6,08/05/2025  9:10 am,,BRX:Bullabulling Option Agreement Executed With Minerals 260  4  pages  970.7KB
+BRX,08/05/2025  9:10 am,,Bullabulling Option Agreement Executed With Minerals 260  4  pages  970.7KB
 AOV,08/05/2025  9:10 am,Â,Update - Notification of buy-back - AOV  6  pages  18.2KB
 M2M,08/05/2025  9:10 am,,Drilling to commence at Leonora on brownfields targets  6  pages  7.3MB
 SFR,08/05/2025  9:09 am,,Sale of Old Highway Gold Project  2  pages  150.6KB
