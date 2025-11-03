@@ -1,4 +1,16 @@
 ASX Code,Date,Price sens.,Headline
+NMG,03/11/2025  5:51 pm,Â,Application for quotation of securities - NMG  6  pages  18.5KB
+BCN,03/11/2025  5:50 pm,Â,Application for quotation of securities - BCN  6  pages  18.1KB
+STM,03/11/2025  5:50 pm,Â,Notification regarding unquoted securities - STM  6  pages  18.4KB
+WHC,03/11/2025  5:46 pm,Â,Change in substantial holding  6  pages  429.1KB
+THR,03/11/2025  5:43 pm,Â,Statement of CDIs on issue - THR  3  pages  14.2KB
+AII,03/11/2025  5:42 pm,Â,Statement of CDIs on issue - AII  7  pages  24.1KB
+BEZ,03/11/2025  5:41 pm,Â,Statement of CDIs on issue - BEZ  3  pages  12.7KB
+STM,03/11/2025  5:40 pm,Â,Notification of cessation of securities - STM  4  pages  14.8KB
+DRR,03/11/2025  5:40 pm,Â,Change of Director's Interest Notice - L Heywood  3  pages  523.5KB
+GBE,03/11/2025  5:40 pm,Â,Notice of Annual General Meeting Correction  1  page  126.1KB
+TYX,03/11/2025  5:39 pm,Â,Application for quotation of securities - TYX  6  pages  18.4KB
+MPA,03/11/2025  5:38 pm,,Scheme becomes Effective  4  pages  265.2KB
 KSM,03/11/2025  5:34 pm,Â,Monthly Units on Issue - October 2025  1  page  362.1KB
 BCA,03/11/2025  5:34 pm,Â,Change of Director's Interest Notice  2  pages  187.6KB
 LM1,03/11/2025  5:33 pm,Â,Addendum to Notice of AGM/Updated Proxy Form  12  pages  692.4KB
@@ -7,24 +19,24 @@ AVR,03/11/2025  5:29 pm,Â,Update on Capital Raising Timetable  2  pages  245.2K
 STM,03/11/2025  5:28 pm,Â,Notification regarding unquoted securities - STM  6  pages  19.1KB
 BTX,03/11/2025  5:26 pm,Â,Monthly Units on Issue - October 2025  1  page  179.7KB
 QOR,03/11/2025  5:25 pm,Â,Application for quotation of securities - QOR  7  pages  20.2KB
-SXE,03/11/2025  5:25 pm,Â,Change in substantial holding from TOP  6  pages  551.2KB
 TOP,03/11/2025  5:25 pm,Â,Change in substantial holding for SXE  6  pages  551.2KB
+SXE,03/11/2025  5:25 pm,Â,Change in substantial holding from TOP  6  pages  551.2KB
 ADE,03/11/2025  5:24 pm,Â,Monthly Units on Issue - October 2025  1  page  373.7KB
 IBC,03/11/2025  5:23 pm,Â,Notification of cessation of securities - IBC  4  pages  14.7KB
 NC6,03/11/2025  5:23 pm,Â,Change of Director's Interest Notice  3  pages  334.1KB
 SXE,03/11/2025  5:23 pm,Â,Change in substantial holding from Tiga Trading Pty Ltd  6  pages  656.0KB
 LRT,03/11/2025  5:23 pm,Â,Notification of cessation of securities - LRT  4  pages  14.7KB
+FLO,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
+RMB,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
 XGO,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
 5GO,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
 1GO,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
 TBI,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
 LEN,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
 GCA,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
-RMB,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
-SUB,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
-FLO,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
-PLU,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
 EBN,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
+SUB,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
+PLU,03/11/2025  5:21 pm,Â,Dividend Reinvestment Plan Prices  2  pages  176.1KB
 AR3,03/11/2025  5:19 pm,Â,Application for quotation of securities - AR3  6  pages  18.4KB
 ZIP,03/11/2025  5:19 pm,Â,Change in substantial holding  8  pages  880.9KB
 SSM,03/11/2025  5:17 pm,Â,Ceasing to be a substantial holder  4  pages  499.1KB
@@ -50,8 +62,8 @@ MRZ,03/11/2025  5:04 pm,Â,Top 20 Shareholders  2  pages  70.2KB
 JDO,03/11/2025  5:04 pm,Â,Ceasing to be a substantial holder  4  pages  483.3KB
 MRZ,03/11/2025  5:04 pm,Â,Distribution Schedule  1  page  65.7KB
 CMA,03/11/2025  5:03 pm,Â,ASX Market Announcement - Admission and Quotation  2  pages  152.3KB
-UYL,03/11/2025  5:03 pm,Â,Global X Final Distribution Announcement - Oct 2025  1  page  209.3KB
 QYL,03/11/2025  5:03 pm,Â,Global X Final Distribution Announcement - Oct 2025  1  page  209.3KB
+UYL,03/11/2025  5:03 pm,Â,Global X Final Distribution Announcement - Oct 2025  1  page  209.3KB
 BAN,03/11/2025  5:03 pm,Â,Global X Final Distribution Announcement - Oct 2025  1  page  209.3KB
 BMN,03/11/2025  5:02 pm,Â,Ceasing to be a substantial holder  5  pages  665.0KB
 LNU,03/11/2025  5:00 pm,Â,Cleansing Notice  1  page  185.2KB
