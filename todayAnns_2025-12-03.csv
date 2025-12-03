@@ -1,4 +1,36 @@
 ASX Code,Date,Price sens.,Headline
+SLX,03/12/2025  5:10 pm,Â,Notification regarding unquoted securities - SLX  6  pages  18.6KB
+CEL,03/12/2025  5:10 pm,Â,Change in substantial holding  4  pages  458.8KB
+SGQ,03/12/2025  5:10 pm,Â,Ceasing to be a substantial holder from MQG  14  pages  1.2MB
+MQG,03/12/2025  5:10 pm,Â,Ceasing to be a substantial holder for SGQ  14  pages  1.2MB
+6KA,03/12/2025  5:08 pm,Â,Form Option Agreement (2019 Share Plan)  16  pages  253.3KB
+6KA,03/12/2025  5:08 pm,Â,2019 Share Plan  20  pages  254.9KB
+QRI,03/12/2025  5:06 pm,Â,Estimated Weekly NTA as at 01.12.2025  3  pages  126.2KB
+ILA,03/12/2025  5:06 pm,Â,Change of Director's Interest Notice - CN & JC  7  pages  329.4KB
+GT1,03/12/2025  5:06 pm,Â,Change of Director's Interest Notice x3  10  pages  1.0MB
+COB,03/12/2025  5:06 pm,Â,Proposed issue of securities - COB  5  pages  17.6KB
+6KA,03/12/2025  5:05 pm,Â,Pre-Quotation Disclosure  5  pages  254.0KB
+IAL,03/12/2025  5:04 pm,Â,mFund - Removal from Settlement Service - IAL02  1  page  150.8KB
+KPG,03/12/2025  5:03 pm,Â,Change of Director's Interest Notice - BK  3  pages  400.1KB
+IAL,03/12/2025  5:03 pm,Â,mFund - Removal from Settlement Service - IAL18  1  page  150.8KB
+G11,03/12/2025  5:03 pm,Â,Becoming a substantial holder  3  pages  124.1KB
+IAL,03/12/2025  5:03 pm,Â,mFund - Removal from Settlement Service - IAL12  1  page  150.8KB
+IAL,03/12/2025  5:03 pm,Â,mFund - Removal from Settlement Service - IAL11  1  page  150.8KB
+IAL,03/12/2025  5:02 pm,Â,mFund - Removal from Settlement Service - IAL08  1  page  150.8KB
+GT1,03/12/2025  5:02 pm,Â,Notification of cessation of securities - GT1  4  pages  14.8KB
+IAL,03/12/2025  5:02 pm,Â,mFund - Removal from Settlement Service - IAL05  1  page  150.8KB
+URF,03/12/2025  5:02 pm,Â,Weekly NAV Estimate  1  page  161.4KB
+KCC,03/12/2025  5:01 pm,Â,Statement of CDIs on issue - KCC  3  pages  13.2KB
+PKY,03/12/2025  5:01 pm,Â,Final Director's Interest Notice - Antanas Guoga  2  pages  291.3KB
+TEM,03/12/2025  5:01 pm,Â,Change of Directors Interest Notice x 4  9  pages  485.2KB
+WES,03/12/2025  4:57 pm,Â,Change of Directors' Interests  14  pages  854.8KB
+6KA,03/12/2025  4:56 pm,Â,Top 20 Holders  2  pages  179.0KB
+6KA,03/12/2025  4:55 pm,Â,Distribution Schedule  1  page  179.4KB
+6KA,03/12/2025  4:55 pm,Â,Securities Trading Policy  10  pages  234.7KB
+6KA,03/12/2025  4:54 pm,Â,Corporate Governance Statement  19  pages  344.3KB
+6KA,03/12/2025  4:53 pm,Â,Employee Share Incentive Plan  51  pages  698.1KB
+SQX,03/12/2025  4:51 pm,Â,Proposed issue of securities - SQX  5  pages  19.6KB
+6KA,03/12/2025  4:50 pm,Â,Financial Statements as of June 30 2025 and December 31 2024  29  pages  1.3MB
 TLS,03/12/2025  4:48 pm,Â,Update - Notification of buy-back - TLS  6  pages  18.4KB
 6KA,03/12/2025  4:48 pm,Â,"Financial Statements for the Years Ended December 31, 2024 a  32  pages  1.6MB"
 6KA,03/12/2025  4:46 pm,Â,Amended and Restated Bylaws  19  pages  193.8KB
@@ -31,10 +63,10 @@ DAL,03/12/2025  4:21 pm,Â,Appendix 3x and Appendix 3z  5  pages  627.3KB
 PDI,03/12/2025  4:21 pm,Â,Becoming a substantial holder  5  pages  221.0KB
 DAC,03/12/2025  4:20 pm,Â,Monthly Units Issued & Redeemed & Notional Derivatives Use  1  page  120.6KB
 DGC,03/12/2025  4:20 pm,Â,Monthly Units Issued & Redeemed & Notional Derivatives Use  1  page  120.6KB
+DFG,03/12/2025  4:20 pm,Â,Monthly Units Issued & Redeemed & Notional Derivatives Use  1  page  120.6KB
 DAV,03/12/2025  4:20 pm,Â,Monthly Units Issued & Redeemed & Notional Derivatives Use  1  page  120.6KB
 DGV,03/12/2025  4:20 pm,Â,Monthly Units Issued & Redeemed & Notional Derivatives Use  1  page  120.6KB
 DGS,03/12/2025  4:20 pm,Â,Monthly Units Issued & Redeemed & Notional Derivatives Use  1  page  120.6KB
-DFG,03/12/2025  4:20 pm,Â,Monthly Units Issued & Redeemed & Notional Derivatives Use  1  page  120.6KB
 AMX,03/12/2025  4:15 pm,Â,Notification of cessation of securities - AMX  4  pages  14.6KB
 GOO,03/12/2025  4:15 pm,Â,Units on Issue & Monthly Redemptions - November 2025  1  page  96.7KB
 PIC,03/12/2025  4:15 pm,Â,Change of Director's Interest Notice  2  pages  341.4KB
@@ -278,8 +310,8 @@ ACR,03/12/2025  9:47 am,Â,Appendix 3Y Brooke  2  pages  219.0KB
 ACR,03/12/2025  9:46 am,Â,Appendix 3Y Oldham  2  pages  236.0KB
 MYG,03/12/2025  9:46 am,Â,Application for quotation of securities - MYG  6  pages  18.1KB
 PCG,03/12/2025  9:46 am,Â,Update - Notification of buy-back - PCG  6  pages  18.2KB
-PDI,03/12/2025  9:46 am,,PRU: Superior Offer to acquire Predictive Discovery  5  pages  328.3KB
 PRU,03/12/2025  9:46 am,,Superior Offer to acquire Predictive Discovery  5  pages  328.3KB
+PDI,03/12/2025  9:46 am,,PRU: Superior Offer to acquire Predictive Discovery  5  pages  328.3KB
 G88,03/12/2025  9:45 am,Â,Application for quotation of securities - G88  6  pages  18.6KB
 ACR,03/12/2025  9:45 am,Â,Appendix 3Y Brumley  2  pages  234.6KB
 WHI,03/12/2025  9:44 am,Â,Cleansing notice - Wholesale Investor Placement  1  page  185.6KB
@@ -304,8 +336,8 @@ MEX,03/12/2025  9:39 am,Â,Investor Presentation - December 2025  19  pages  4.8
 RWL,03/12/2025  9:38 am,Â,Notification regarding unquoted securities - RWL  7  pages  21.0KB
 MAY,03/12/2025  9:38 am,,Trading Halt  2  pages  366.4KB
 RXR,03/12/2025  9:38 am,,PDI: PDI Announces Receipt of Superior Acquisition Proposal  3  pages  300.2KB
-PRU,03/12/2025  9:37 am,,PDI: PDI Announces Receipt of Superior Acquisition Proposal  3  pages  300.2KB
 PDI,03/12/2025  9:37 am,,PDI Announces Receipt of Superior Acquisition Proposal  3  pages  300.2KB
+PRU,03/12/2025  9:37 am,,PDI: PDI Announces Receipt of Superior Acquisition Proposal  3  pages  300.2KB
 CZN,03/12/2025  9:36 am,Â,Proposed issue of securities - CZN  5  pages  18.7KB
 CZN,03/12/2025  9:36 am,,Successful Placement to Accelerate WA Gold Strategy  4  pages  310.3KB
 SRL,03/12/2025  9:36 am,,Follow-on Placement of A$18.865m for Syerston Project  3  pages  113.3KB
