@@ -1,4 +1,35 @@
 ASX Code,Date,Price sens.,Headline
+RAD,19/12/2025  5:11 pm,Â,Notification regarding unquoted securities - RAD  6  pages  19.4KB
+ACW,19/12/2025  5:11 pm,Â,Application for quotation of securities - ACW  8  pages  23.8KB
+TPW,19/12/2025  5:11 pm,Â,Becoming a substantial holder from MQG  199  pages  1.3MB
+MQG,19/12/2025  5:11 pm,Â,Becoming a substantial holder for TPW  199  pages  1.3MB
+BIT,19/12/2025  5:10 pm,Â,Notification regarding unquoted securities - BIT  5  pages  16.7KB
+VTX,19/12/2025  5:09 pm,Â,Retirement and Appointment of Directors  5  pages  304.0KB
+HMY,19/12/2025  5:08 pm,Â,Change of Director's Interest Notice - David Stevens  3  pages  155.1KB
+XF1,19/12/2025  5:07 pm,Â,Notification regarding unquoted securities - XF1  7  pages  22.0KB
+CXU,19/12/2025  5:05 pm,Â,Cleansing Notice  1  page  203.7KB
+DN1,19/12/2025  5:04 pm,Â,Update - Dividend/Distribution - DN1  4  pages  15.6KB
+C79,19/12/2025  5:03 pm,Â,Ceasing to be a substantial holder  4  pages  190.9KB
+DUB,19/12/2025  5:03 pm,Â,Notification regarding unquoted securities - DUB  7  pages  21.8KB
+BKY,19/12/2025  5:02 pm,Â,Report on Payments to Governments  1  page  215.7KB
+CXU,19/12/2025  5:01 pm,Â,Application for quotation of securities - CXU  6  pages  18.2KB
+HMY,19/12/2025  5:00 pm,Â,Notification regarding unquoted securities - HMY  6  pages  19.9KB
+360,19/12/2025  5:00 pm,Â,SEC Forms 4  8  pages  657.7KB
+HMY,19/12/2025  4:58 pm,Â,Notification regarding unquoted securities - HMY  6  pages  19.6KB
+EVT,19/12/2025  4:58 pm,Â,Change in substantial holding from PPT  12  pages  624.0KB
+PPT,19/12/2025  4:58 pm,Â,Change in substantial holding for EVT  12  pages  624.0KB
+DUB,19/12/2025  4:57 pm,Â,Cleansing Notice under Section 708A(5)(e) of the Corps Act  1  page  116.6KB
+CTW,19/12/2025  4:57 pm,Â,CitiFirst VTS SFI MINIs Distribution Estimated Amount  1  page  18.2KB
+BET,19/12/2025  4:56 pm,Â,Cleansing Notice  2  pages  116.7KB
+CLV,19/12/2025  4:55 pm,Â,Change in substantial holding from PPT  6  pages  604.6KB
+PPT,19/12/2025  4:55 pm,Â,Change in substantial holding for CLV  6  pages  604.6KB
+RLC,19/12/2025  4:54 pm,Â,Notification of cessation of securities - RLC  4  pages  14.7KB
+APZ,19/12/2025  4:53 pm,Â,Change in substantial holding from PPT  9  pages  625.0KB
+PPT,19/12/2025  4:53 pm,Â,Change in substantial holding for APZ  9  pages  625.0KB
+VNL,19/12/2025  4:51 pm,Â,Change of Director's Interest Notice  3  pages  88.8KB
+DUB,19/12/2025  4:50 pm,Â,Application for quotation of securities - DUB  8  pages  25.0KB
+PIC,19/12/2025  4:50 pm,Â,Daily Net Tangible Asset Statement  1  page  233.5KB
+VNL,19/12/2025  4:50 pm,Â,Notification regarding unquoted securities - VNL  6  pages  20.1KB
 BSL,19/12/2025  4:46 pm,Â,Notification of cessation of securities - BSL  4  pages  14.7KB
 CHM,19/12/2025  4:43 pm,Â,Notification regarding unquoted securities - CHM  6  pages  19.0KB
 MDX,19/12/2025  4:43 pm,Â,Update - Notification regarding unquoted securities - MDX  5  pages  16.5KB
@@ -321,8 +352,6 @@ CUF,19/12/2025  10:01 am,Â,Change of Director's Interest Notice (D Palmer)  3  
 SCT,19/12/2025  10:00 am,,EGM Address and Presentation  11  pages  1.5MB
 OR3,19/12/2025  10:00 am,Â,Application for quotation of securities - OR3  6  pages  18.4KB
 CUF,19/12/2025  9:59 am,Â,Notification regarding unquoted securities - CUF  6  pages  20.2KB
-STW,19/12/2025  9:59 am,Â,Primary Market Early Closure Announcement  2  pages  246.4KB
-E20,19/12/2025  9:59 am,Â,Primary Market Early Closure Announcement  2  pages  246.4KB
 SLF,19/12/2025  9:59 am,Â,Primary Market Early Closure Announcement  2  pages  246.4KB
 SYI,19/12/2025  9:59 am,Â,Primary Market Early Closure Announcement  2  pages  246.4KB
 SSO,19/12/2025  9:59 am,Â,Primary Market Early Closure Announcement  2  pages  246.4KB
@@ -337,6 +366,8 @@ DJR,19/12/2025  9:59 am,Â,Primary Market Early Closure Announcement  2  pages  
 WEM,19/12/2025  9:59 am,Â,Primary Market Early Closure Announcement  2  pages  246.4KB
 SPY,19/12/2025  9:59 am,Â,Primary Market Early Closure Announcement  2  pages  246.4KB
 QMI,19/12/2025  9:59 am,Â,Primary Market Early Closure Announcement  2  pages  246.4KB
+E20,19/12/2025  9:59 am,Â,Primary Market Early Closure Announcement  2  pages  246.4KB
+STW,19/12/2025  9:59 am,Â,Primary Market Early Closure Announcement  2  pages  246.4KB
 SFY,19/12/2025  9:59 am,Â,Primary Market Early Closure Announcement  2  pages  246.4KB
 BMR,19/12/2025  9:58 am,,Drilling commences at Maniopota Pb-Zn-Cu-Ag-Au target  22  pages  1.3MB
 CUF,19/12/2025  9:57 am,Â,Notification regarding unquoted securities - CUF  5  pages  16.7KB
