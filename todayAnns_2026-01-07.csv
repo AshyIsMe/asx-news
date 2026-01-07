@@ -1,4 +1,9 @@
 ASX Code,Date,Price sens.,Headline
+WOR,07/01/2026  5:54 pm,Â,Notification of cessation of securities - WOR  4  pages  14.7KB
+SFM,07/01/2026  5:53 pm,Â,Results of General Meeting  2  pages  625.9KB
+LYC,07/01/2026  5:48 pm,Â,Date of Quarterly Report and Briefing  1  page  147.4KB
+CCR,07/01/2026  5:47 pm,Â,Cleansing Notice  1  page  147.3KB
+HYD,07/01/2026  5:47 pm,,$2.5m contract to develop SynCardia's next generation TAH  3  pages  204.3KB
 CCR,07/01/2026  5:34 pm,Â,Application for quotation of securities - CCR  6  pages  19.1KB
 QRI,07/01/2026  5:23 pm,Â,Estimated Weekly NTA as at 05.01.2026  3  pages  110.9KB
 QGR,07/01/2026  5:21 pm,Â,QGRU Monthly Unit Disclosure - December 2025  1  page  238.2KB
@@ -6,11 +11,6 @@ QGF,07/01/2026  5:20 pm,Â,QGFH Monthly Unit Disclosure - December 2025  1  page
 RKB,07/01/2026  5:15 pm,Â,Notification regarding unquoted securities - RKB  7  pages  21.6KB
 WWI,07/01/2026  5:08 pm,Â,Cleansing Notice  1  page  204.2KB
 INA,07/01/2026  5:04 pm,Â,Notification of cessation of securities - INA  4  pages  14.8KB
-ACD,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
-CUR,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
-NDI,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
-FAN,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
-SNA,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 LNA,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 UST,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 USH,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
@@ -21,9 +21,9 @@ PAV,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  25
 GMT,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 QYL,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 AYL,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
+ATO,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 UYL,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 OZX,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
-BUG,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 WIR,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 BCO,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 GXL,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
@@ -40,6 +40,11 @@ DRG,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  25
 A30,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 GRP,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 J10,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
+SNA,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
+FAN,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
+NDI,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
+CUR,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
+ACD,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 ROB,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 TEC,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 EST,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
@@ -47,7 +52,7 @@ ZYA,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  25
 ZYU,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 ETP,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 GOL,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
-ATO,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
+BUG,07/01/2026  5:03 pm,Â,Global X Units on Issue - December 2025  2  pages  258.6KB
 WWI,07/01/2026  5:03 pm,Â,Application for quotation of securities - WWI  6  pages  18.2KB
 RC1,07/01/2026  5:00 pm,Â,Update - Proposed issue of securities - RC1  6  pages  21.3KB
 AFG,07/01/2026  5:00 pm,Â,Change in substantial holding  5  pages  298.3KB
