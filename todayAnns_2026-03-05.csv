@@ -1,4 +1,27 @@
 ASX Code,Date,Price sens.,Headline
+EM3,05/03/2026  12:39 pm,Â,Application for quotation of securities - EM3  6  pages  18.3KB
+EM3,05/03/2026  12:39 pm,Â,Cleansing Notice  2  pages  272.3KB
+FLT,05/03/2026  12:31 pm,Â,Notification regarding unquoted securities - FLT  6  pages  18.4KB
+CBA,05/03/2026  12:28 pm,Â,Issue of AUD 1.85 billion worth of Subordinated Securities  79  pages  1.5MB
+IRE,05/03/2026  12:25 pm,Â,Change of Director's Interest Notice  2  pages  214.4KB
+PCI,05/03/2026  12:22 pm,Â,Daily Net Tangible Asset Statement  1  page  485.1KB
+KTA,05/03/2026  12:22 pm,Â,Investor Webinar Presentation  14  pages  3.9MB
+GGB,05/03/2026  12:22 pm,Â,Units on Issue Disclosure - February 2026  1  page  83.7KB
+ECR,05/03/2026  12:22 pm,Â,Units on Issue Disclosure - February 2026  1  page  83.7KB
+G20,05/03/2026  12:22 pm,Â,Units on Issue Disclosure - February 2026  1  page  83.7KB
+GHH,05/03/2026  12:22 pm,Â,Units on Issue Disclosure - February 2026  1  page  83.7KB
+BBU,05/03/2026  12:22 pm,Â,Units on Issue Disclosure - February 2026  1  page  83.7KB
+GGU,05/03/2026  12:22 pm,Â,Units on Issue Disclosure - February 2026  1  page  83.7KB
+GEA,05/03/2026  12:22 pm,Â,Units on Issue Disclosure - February 2026  1  page  83.7KB
+GND,05/03/2026  12:22 pm,Â,Units on Issue Disclosure - February 2026  1  page  83.7KB
+EOL,05/03/2026  12:21 pm,Â,Change of Director's Interest Notice - Andrew Bonwick  3  pages  1.2MB
+OFX,05/03/2026  12:20 pm,Â,Becoming a substantial holder  2  pages  215.5KB
+BRN,05/03/2026  12:13 pm,Â,Change of Director's Interest Notice - van der Made  2  pages  175.6KB
+BRN,05/03/2026  12:13 pm,Â,Change of Director's Interest Notice - Hehir  3  pages  316.7KB
+OB1,05/03/2026  11:56 am,Â,Change of Director's Interest Notice  2  pages  240.5KB
+FRS,05/03/2026  11:54 am,Â,Completion of Kula Gold Compulsory Acquisition  4  pages  1.0MB
+NAN,05/03/2026  11:51 am,Â,Update - Notification of buy-back - NAN  6  pages  18.2KB
+LNW,05/03/2026  11:50 am,Â,Application for quotation of securities - LNW  6  pages  19.1KB
 MM8,05/03/2026  11:45 am,Â,Investor Webinar  1  page  190.6KB
 BTI,05/03/2026  11:37 am,Â,Application for quotation of securities - BTI  6  pages  17.7KB
 L1M,05/03/2026  11:13 am,Â,Application for quotation of securities - L1M  9  pages  24.8KB
@@ -6,10 +29,6 @@ MGT,05/03/2026  11:11 am,Â,Commencement of Rights Trading - MGTRH  1  page  185
 SKO,05/03/2026  11:11 am,Â,Ongoing Disclosure Notice - Claudia Batten  2  pages  197.6KB
 AVR,05/03/2026  11:09 am,Â,Statement of CDIs on issue - AVR  3  pages  12.9KB
 PL9,05/03/2026  11:07 am,,Construction of Lithium Plant in Full Swing at Prairie  4  pages  873.1KB
-VGS,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
-VGA,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
-VCF,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
-VIF,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
 VAE,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
 VEQ,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
 VAC,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
@@ -27,6 +46,10 @@ VIS,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
 VET,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
 VDA,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
 VDI,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
+VIF,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
+VCF,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
+VGA,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
+VGS,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
 VGE,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
 VAF,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
 VGB,05/03/2026  11:07 am,Â,Outstanding Securities  6  pages  237.0KB
@@ -179,10 +202,10 @@ DXS,05/03/2026  9:11 am,Â,Update - Notification of buy-back - DXS  6  pages  18
 NAG,05/03/2026  9:11 am,Â,2026 Share Purchase Plan Terms and Conditions  4  pages  450.9KB
 1AE,05/03/2026  9:09 am,,Appointment of Aidan Platel as Managing Director  3  pages  280.8KB
 SEQ,05/03/2026  9:08 am,Â,Update - Notification of buy-back - SEQ  6  pages  18.2KB
-JEP,05/03/2026  9:08 am,Â,Distribution Notice  2  pages  186.1KB
 JPH,05/03/2026  9:08 am,Â,Distribution Notice  2  pages  186.1KB
-JHP,05/03/2026  9:08 am,Â,Distribution Notice  2  pages  186.1KB
 JPE,05/03/2026  9:08 am,Â,Distribution Notice  2  pages  186.1KB
+JHP,05/03/2026  9:08 am,Â,Distribution Notice  2  pages  186.1KB
+JEP,05/03/2026  9:08 am,Â,Distribution Notice  2  pages  186.1KB
 PAX,05/03/2026  9:06 am,Â,Monthly redemptions and units on issue - February 2026  1  page  291.0KB
 AUB,05/03/2026  9:06 am,Â,Change of Director's Interest Notice - Melanie Laing  2  pages  260.3KB
 VVA,05/03/2026  9:05 am,Â,Update - Notification of buy-back - VVA  6  pages  18.2KB
