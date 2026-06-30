@@ -1,11 +1,38 @@
 ASX Code,Date,Price sens.,Headline
+MKR,30/06/2026  11:17 am,Â,Notification regarding unquoted securities - MKR  6  pages  20.0KB
+LPH,30/06/2026  11:13 am,Â,Monthly Portfolio Disclosure - May 2026  1  page  251.8KB
+TRU,30/06/2026  11:11 am,Â,Application for quotation of securities - TRU  5  pages  18.4KB
+GRL,30/06/2026  11:11 am,Â,Results of Meeting  2  pages  288.5KB
+TWD,30/06/2026  11:11 am,Â,Application for quotation of securities - TWD  7  pages  19.8KB
+LPG,30/06/2026  11:10 am,Â,Monthly Portfolio Disclosure - May 2026  1  page  252.0KB
+HUM,30/06/2026  11:06 am,Â,Update on TAG Board Nominee  1  page  133.3KB
+BUY,30/06/2026  11:02 am,Â,Application for quotation of securities - BUY  7  pages  23.2KB
+SNC,30/06/2026  11:00 am,Â,Application for quotation of securities - SNC  6  pages  17.7KB
+RWL,30/06/2026  10:59 am,Â,Change of Director's Interest Notice  4  pages  265.6KB
+MCG,30/06/2026  10:59 am,Â,Monthly Portfolio Holdings - May 2026  2  pages  147.7KB
+MCC,30/06/2026  10:55 am,Â,Monthly Portfolio Holdings - May 2026  1  page  138.3KB
+HWK,30/06/2026  10:55 am,Â,Ceasing to be a substantial holder  3  pages  442.9KB
+MAE,30/06/2026  10:55 am,Â,Monthly Portfolio Holdings - May 2026  2  pages  166.5KB
+PLS,30/06/2026  10:55 am,Â,June 2026 quarterly activities report advisory  1  page  138.9KB
+CIW,30/06/2026  10:54 am,Â,Dividend/Distribution - CIW  4  pages  15.5KB
+WQG,30/06/2026  10:48 am,Â,Application for quotation of securities - WQG  6  pages  17.6KB
+TVN,30/06/2026  10:46 am,Â,Application for quotation of securities - TVN  6  pages  18.6KB
+MME,30/06/2026  10:41 am,Â,Application for quotation of securities - MME  6  pages  18.4KB
+BBL,30/06/2026  10:41 am,Â,Change of Director's Interest Notice  2  pages  281.4KB
+KKC,30/06/2026  10:38 am,Â,Dividend/Distribution - KKC  5  pages  18.8KB
+A4N,30/06/2026  10:36 am,Â,Notification of cessation of securities - A4N  4  pages  14.7KB
+CGO,30/06/2026  10:28 am,Â,Final Director's Interest Notice - Nick Mescher  2  pages  1.0MB
+NIC,30/06/2026  10:19 am,Â,Notification regarding unquoted securities - NIC  6  pages  19.2KB
+PR4,30/06/2026  10:19 am,Â,FY2025 Trust Financial  17  pages  885.7KB
+PKP,30/06/2026  10:12 am,Â,Notification regarding unquoted securities - PKP  6  pages  23.2KB
+AIQ,30/06/2026  10:12 am,Â,AIQ RG240 Annual Report 2025  5  pages  343.9KB
 CT1,30/06/2026  10:09 am,Â,Change of Director's Interest Notice  2  pages  251.1KB
 CT1,30/06/2026  10:06 am,Â,Application for quotation of securities - CT1  7  pages  20.6KB
 MTH,30/06/2026  10:05 am,,MITHRIL DERISKS TARGET 1 WITH 75% INDICATED RESOURCE  23  pages  10.0MB
 CIW,30/06/2026  10:04 am,,Business Update and Dividend Declaration  2  pages  701.5KB
 GAS,30/06/2026  10:01 am,Â,Change of Director's Interest Notice  2  pages  205.9KB
-QRI,30/06/2026  10:01 am,Â,Change of Director's Interest Notice  3  pages  452.0KB
 QAL,30/06/2026  10:01 am,Â,Change of Director's Interest Notice  3  pages  452.0KB
+QRI,30/06/2026  10:01 am,Â,Change of Director's Interest Notice  3  pages  452.0KB
 GAS,30/06/2026  10:01 am,Â,Change of Director's Interest Notice  2  pages  207.5KB
 RGB,30/06/2026  9:59 am,,Dividend/Distribution - RGB  1  page  144.4KB
 VLU,30/06/2026  9:59 am,Â,Final Dividend/Distribution for period ending 30 June 2026  3  pages  216.7KB
@@ -249,8 +276,8 @@ JPE,30/06/2026  8:44 am,Â,Investor Notice - Fund Changes  3  pages  229.9KB
 PLY,30/06/2026  8:44 am,Â,Notification of cessation of securities - PLY  4  pages  14.8KB
 WWI,30/06/2026  8:44 am,Â,Application for quotation of securities - WWI  6  pages  18.2KB
 JHP,30/06/2026  8:44 am,Â,Investor Notice - Fund Changes  3  pages  229.1KB
-DYL,30/06/2026  8:43 am,Â,Cooper Creek JV Acquisition  4  pages  3.7MB
 ERA,30/06/2026  8:43 am,Â,DYL: Cooper Creek JV Acquisition  4  pages  3.7MB
+DYL,30/06/2026  8:43 am,Â,Cooper Creek JV Acquisition  4  pages  3.7MB
 NXN,30/06/2026  8:43 am,Â,Global Healthcare CEO Joins Nexsen Advisory Board  3  pages  745.0KB
 GCM,30/06/2026  8:42 am,,GCM Signs Binding JDA with ALVC  5  pages  210.5KB
 PL3,30/06/2026  8:42 am,,58% Increase in Pumping Rate from Well 2  14  pages  1.2MB
@@ -324,46 +351,6 @@ MCP,30/06/2026  8:24 am,Â,Update - Notification of buy-back - MCP  6  pages  18
 LSF,30/06/2026  8:24 am,Â,Net Tangible Asset Backing  1  page  131.6KB
 BUX,30/06/2026  8:21 am,,Copper Wolf Asset Sale Completed  6  pages  1.4MB
 CR3,30/06/2026  8:21 am,,Leach Testwork confirms Ionic Clay REE Mineralisation -Tunas  19  pages  2.1MB
-QFN,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-USD,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-QAU,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-OOO,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-BEA,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-YMA,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-QOZ,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-GEA,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-QUS,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-AUD,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-NDQ,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-FOO,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-DRU,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-HVS,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-UMA,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-GGU,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-BBO,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-BBU,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-FUE,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-MNR,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-WRL,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-BNK,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-SML,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-AUS,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-HEU,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-HJP,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-HAC,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-EX2,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-YAN,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-INC,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-ETH,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-HBR,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-QPO,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-FAI,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-A20,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-CRE,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-QLT,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-RBT,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-ASI,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
-F10,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
 AGV,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
 IIN,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
 DBB,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
@@ -426,6 +413,46 @@ GTU,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
 RCK,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
 COM,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
 QRE,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+QFN,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+USD,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+QAU,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+OOO,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+BEA,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+YMA,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+QOZ,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+GEA,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+QUS,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+AUD,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+NDQ,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+FOO,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+DRU,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+HVS,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+UMA,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+GGU,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+BBO,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+BBU,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+FUE,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+MNR,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+WRL,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+BNK,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+SML,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+AUS,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+HEU,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+HJP,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+HAC,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+EX2,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+YAN,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+INC,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+ETH,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+HBR,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+QPO,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+FAI,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+A20,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+CRE,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+QLT,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+RBT,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+ASI,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
+F10,30/06/2026  8:20 am,,Estimated Distribution Announcement  3  pages  180.1KB
 CYL,30/06/2026  8:20 am,,"Trident Open Pit Complete, Underground Development Underway  5  pages  986.5KB"
 BND,30/06/2026  8:20 am,,Estimated Distribution Announcement  1  page  63.9KB
 SVR,30/06/2026  8:19 am,Â,Update - Notification of buy-back - SVR  6  pages  18.2KB
