@@ -1,4 +1,14 @@
 ASX Code,Date,Price sens.,Headline
+CTW,06/11/2026  10:28 am,Â,CitiFirst NAB Instalments Dividend  1  page  23.8KB
+CTW,06/11/2026  10:27 am,Â,CitiFirst AMC Instalments Dividend  1  page  25.2KB
+CTW,06/11/2026  10:27 am,Â,CitiFirst NAB Instalment MINIs Dividend  1  page  24.0KB
+GHY,06/11/2026  10:27 am,Â,Notification regarding unquoted securities - GHY  6  pages  15.7KB
+CTW,06/11/2026  10:26 am,Â,CitiFirst AMC Instalment MINIs Dividend  1  page  24.1KB
+BIS,06/11/2026  10:21 am,Â,Chair's Address to Shareholders  5  pages  152.4KB
+BIS,06/11/2026  10:18 am,Â,Dividend/Distribution - BIS  4  pages  11.6KB
+GHY,06/11/2026  10:17 am,Â,Application for quotation of securities - GHY  6  pages  14.4KB
+PRX,06/11/2026  10:16 am,Â,Update - Proposed issue of securities - PRX  6  pages  18.9KB
+AIA,06/11/2026  10:13 am,Â,AIA - Announces books closed for retail bond offer  1  page  409.0KB
 ADX,06/11/2026  10:05 am,,Commencement of Austrian Well Work  4  pages  732.2KB
 THL,06/11/2026  10:04 am,,Update on non-binding indicative offers  2  pages  228.1KB
 THL,06/11/2026  10:03 am,,2026 Annual Meeting Materials  38  pages  7.5MB
@@ -47,8 +57,8 @@ MMI,06/11/2026  9:40 am,Â,Change of Director's Interest Notice - Paul Lucas  2 
 L1I,06/11/2026  9:40 am,Â,Unitholder Monthly Report for October 2026  3  pages  371.3KB
 VRC,06/11/2026  9:39 am,,"VEM Receives First US$225,000 Instalment from US DoW  3  pages  314.8KB"
 NXN,06/11/2026  9:39 am,Â,Nexsen advances kidney diagnostics program  4  pages  216.8KB
-INA,06/11/2026  9:37 am,,PPC: Execution of Flagstone JV Implementation Deed  1  page  164.2KB
 PPC,06/11/2026  9:37 am,,Execution of Flagstone JV Implementation Deed  1  page  164.2KB
+INA,06/11/2026  9:37 am,,PPC: Execution of Flagstone JV Implementation Deed  1  page  164.2KB
 OCC,06/11/2026  9:35 am,Â,AGM Addresses by Chair and Managing Director  30  pages  2.4MB
 YRL,06/11/2026  9:34 am,Â,Share Purchase Plan  16  pages  964.3KB
 CAF,06/11/2026  9:33 am,Â,Application for quotation of securities - CAF  6  pages  14.4KB
@@ -85,8 +95,8 @@ CAV,06/11/2026  9:15 am,Â,Change of Director's Interest Notice - H Hale  2  pag
 SPA,06/11/2026  9:15 am,Â,Board Renewal and Chair Succession  3  pages  177.3KB
 PWE,06/11/2026  9:15 am,Â,Outstanding Units on Issue and Monthly Redemptions  2  pages  166.0KB
 XX2,06/11/2026  9:15 am,Â,Outstanding Units on Issue and Monthly Redemptions  2  pages  166.0KB
-LEV,06/11/2026  9:14 am,Â,Outstanding Units on Issue and Monthly Redemptions  2  pages  166.0KB
 FSC,06/11/2026  9:14 am,Â,Outstanding Units on Issue and Monthly Redemptions  2  pages  166.0KB
+LEV,06/11/2026  9:14 am,Â,Outstanding Units on Issue and Monthly Redemptions  2  pages  166.0KB
 REA,06/11/2026  9:14 am,Â,Form 10-Q filed by News Corp with SEC  40  pages  404.3KB
 CUP,06/11/2026  9:13 am,,Successful completion of $25.0 million Placement  3  pages  205.8KB
 IVZ,06/11/2026  9:13 am,,Musuma-1 Well Services Mobilisation & Rig Up Underway  4  pages  909.8KB
@@ -94,17 +104,18 @@ EIG,06/11/2026  9:10 am,Â,EIGA Monthly Units Release October  2  pages  172.1KB
 ZIL,06/11/2026  9:10 am,Â,Units on issue October 2026  2  pages  172.0KB
 COL,06/11/2026  9:10 am,Â,MD & CEO Address to Shareholders  6  pages  223.1KB
 AFI,06/11/2026  9:09 am,Â,Update - Notification of buy-back - AFI  6  pages  14.4KB
-VES,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-VBL,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-VET,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-VDA,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-VDI,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-VIH,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-V5A,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-V50,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-VFL,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+VSO,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
 VTK,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-VTE,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+VFL,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+V50,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+V5A,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+VIH,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+VDI,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+VDA,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+VET,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+VIS,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+VBL,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+VES,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
 VEF,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
 VVL,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
 VDH,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
@@ -122,13 +133,12 @@ VGA,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcemen
 VGS,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
 VGE,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
 VAF,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-VGB,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-VLC,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-VHY,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-VSO,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-VAP,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
 VAS,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
-VIS,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+VAP,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+VTE,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+VHY,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+VLC,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
+VGB,06/11/2026  9:09 am,Â,Outstanding ETF Securities and Fund Flows Announcement  7  pages  318.0KB
 MBL,06/11/2026  9:09 am,Â,Dividend/Distribution - MBLPD  5  pages  14.7KB
 MEC,06/11/2026  9:09 am,Â,Update - Notification of buy-back - MEC  6  pages  14.5KB
 MBL,06/11/2026  9:09 am,Â,Dividend/Distribution - MBLPC  5  pages  14.7KB
@@ -144,18 +154,18 @@ WHC,06/11/2026  9:05 am,Â,Update - Notification of buy-back - WHC  6  pages  14
 CHA,06/11/2026  9:05 am,Â,Admission and Commencement of Trading - CHAT  2  pages  255.3KB
 DXI,06/11/2026  9:05 am,Â,Update - Notification of buy-back - DXI  6  pages  14.4KB
 CTN,06/11/2026  9:04 am,,Trading Halt  2  pages  156.6KB
-MQA,06/11/2026  9:03 am,Â,"Monthly Redemptions, Applications and Units on Issue  1  page  160.3KB"
-MQW,06/11/2026  9:03 am,Â,"Monthly Redemptions, Applications and Units on Issue  1  page  160.3KB"
-MQE,06/11/2026  9:03 am,Â,"Monthly Redemptions, Applications and Units on Issue  1  page  160.3KB"
 MQX,06/11/2026  9:03 am,Â,"Monthly Redemptions, Applications and Units on Issue  1  page  160.3KB"
 MQH,06/11/2026  9:03 am,Â,"Monthly Redemptions, Applications and Units on Issue  1  page  160.3KB"
+MQE,06/11/2026  9:03 am,Â,"Monthly Redemptions, Applications and Units on Issue  1  page  160.3KB"
+MQA,06/11/2026  9:03 am,Â,"Monthly Redemptions, Applications and Units on Issue  1  page  160.3KB"
+MQW,06/11/2026  9:03 am,Â,"Monthly Redemptions, Applications and Units on Issue  1  page  160.3KB"
 DXC,06/11/2026  9:03 am,Â,Update - Notification of buy-back - DXC  6  pages  14.4KB
 APE,06/11/2026  9:03 am,Â,Update - Notification of buy-back - APE  6  pages  14.3KB
-MQS,06/11/2026  9:02 am,Â,"Monthly Redemptions, Applications, Units on Issue and OTC  1  page  161.0KB"
-MQI,06/11/2026  9:02 am,Â,"Monthly Redemptions, Applications, Units on Issue and OTC  1  page  161.0KB"
-MQY,06/11/2026  9:02 am,Â,"Monthly Redemptions, Applications, Units on Issue and OTC  1  page  161.0KB"
 MQF,06/11/2026  9:02 am,Â,"Monthly Redemptions, Applications, Units on Issue and OTC  1  page  161.0KB"
+MQY,06/11/2026  9:02 am,Â,"Monthly Redemptions, Applications, Units on Issue and OTC  1  page  161.0KB"
+MQS,06/11/2026  9:02 am,Â,"Monthly Redemptions, Applications, Units on Issue and OTC  1  page  161.0KB"
 MQD,06/11/2026  9:02 am,Â,"Monthly Redemptions, Applications, Units on Issue and OTC  1  page  161.0KB"
+MQI,06/11/2026  9:02 am,Â,"Monthly Redemptions, Applications, Units on Issue and OTC  1  page  161.0KB"
 WMX,06/11/2026  9:01 am,Â,October 2026 Investment Update  4  pages  704.3KB
 MRE,06/11/2026  9:00 am,Â,Update - Dividend/Distribution - MRE  4  pages  11.7KB
 MOT,06/11/2026  8:59 am,Â,Update - Dividend/Distribution - MOT  4  pages  11.8KB
